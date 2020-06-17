@@ -5,7 +5,7 @@ Simple python script that creates __Trello Cards/Labels__ using Excel
 ## Installation
 
 0. Clone this repository
-1. install requirements using this command :  `pip install -r requirements.txt`
+1. Install requirements using this command :  `pip install -r requirements.txt`
 2. Edit `data.xlsx` 
 3. In `app.py`, change it with your variables:
    ```python
