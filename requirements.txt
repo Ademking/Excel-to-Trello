@@ -6,4 +6,4 @@ jdcal==1.4.1
 openpyxl==3.0.3
 requests==2.23.0
 trello.py==0.0.6.post4
-urllib3==1.25.9
+urllib3==1.26.5
